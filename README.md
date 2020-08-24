@@ -1,23 +1,15 @@
 
-# vrealize-automation-abx-actions-for-vmc-on-aws
+# vRealize Automation ABX Actions for VMware Cloud on AWS 
 
 ## Overview
 
-## Try it out
-
-### Prerequisites
-
-* Prereq 1
-* Prereq 2
-* Prereq 3
-
-### Build & Run
-
-1. Step 1
-2. Step 2
-3. Step 3
+These ABX actions will enable customers to consume and manage VMware Cloud on AWS networking constructs directly from the vRA Service Catalog.
 
 ## Documentation
+
+Please consult the following blog posts:
+https://blogs.vmware.com/management/2020/08/self-service-hybrid-cloud-part-2-using-vrealize-automation-abx-to-make-api-calls-to-vmware-cloud-on-aws.html
+https://nicovibert.com/2020/07/30/automation-with-vmware-cloud-on-aws-and-vrealize-automation-abx/
 
 ## Contributing
 
