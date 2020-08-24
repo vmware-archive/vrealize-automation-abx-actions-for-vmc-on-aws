@@ -10,6 +10,7 @@ These ABX actions will enable customers to consume and manage VMware Cloud on AW
 Please consult the following blog posts:
 
 https://blogs.vmware.com/management/2020/08/self-service-hybrid-cloud-part-2-using-vrealize-automation-abx-to-make-api-calls-to-vmware-cloud-on-aws.html
+
 https://nicovibert.com/2020/07/30/automation-with-vmware-cloud-on-aws-and-vrealize-automation-abx/
 
 ## Contributing
