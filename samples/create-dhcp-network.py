@@ -1,3 +1,10 @@
+# VRA ABX ACTION TO CREATE DHCP NETWORK
+
+################################################################################
+### Copyright (C) 2019-2020 VMware, Inc.  All rights reserved.
+### SPDX-License-Identifier: BSD-2-Clause
+################################################################################
+
 import requests                         # need this for Get/Post/Delete
 import json
 
