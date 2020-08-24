@@ -21,3 +21,10 @@ signed as described on that page. Your signature certifies that you wrote the pa
 as an open-source patch. For more detailed information, refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## License
+
+vRealize Automation ABX Actions for VMware Cloud on AWS is released under the BSD-2 license. Please see [LICENSE.TXT](LICENSE.txt).
+
+################################################################################
+### Copyright (C) 2019-2020 VMware, Inc.  All rights reserved.
+### SPDX-License-Identifier: BSD-2-Clause
+################################################################################
